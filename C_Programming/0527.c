@@ -2,7 +2,7 @@
 
 void main() {
 
-	char ch;
+	/*char ch;
 
 	scanf_s("%c", &ch);
 
@@ -16,6 +16,6 @@ void main() {
 		printf("숫자\n");
 	}
 
-	printf("아스키 : %d", ch);
+	printf("아스키 : %d", ch);*/
 
 }
